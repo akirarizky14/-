@@ -24,7 +24,7 @@ namespace ConsoleApp10
             }
             Console.WriteLine();
         }
-    }
+    } 
     class task1
     { 
         static void Main(string[]args)
